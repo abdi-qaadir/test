@@ -1,0 +1,40 @@
+.container{
+    background-color: chartreuse;
+    width: 300px;
+    padding: 50px;
+    border-radius:5px;
+    margin:auto;
+    margin: top 40px;
+    height: 600px;
+}
+.image img{
+width: 250px;
+height: 300px;
+border-radius: 50px;
+margin-left: 20px;
+margin: top 40px;
+}
+h1{
+margin-top: 10px;
+color: blue;
+font-size: 20px;
+text-align: center;
+}
+h3{
+    text-align: center;
+    margin-top: 5px;   
+}
+span{
+    color: red;
+}
+p{
+    color: black;
+    
+}
+button{
+    background-color: yellow;
+    margin-right: 20px;
+    border-radius: 10px;
+    width: 80px;
+    padding: 2px;
+}
